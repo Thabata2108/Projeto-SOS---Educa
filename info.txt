@@ -1,0 +1,9 @@
+				fonte - Segoe UI
+tipo - bold
+cor da fonte - #515751
+
+Fundo - F9F9F9
+
+botão sair ou voltar - A6E2A6
+
+Botões principais - DCF0DC

@@ -2,13 +2,13 @@
 
 Aplicativo educativo de primeiros socorros desenvolvido em Python (Tkinter).
 
-## Objetivo
+Objetivo:
 Ensinar, de forma simples e acessível, os principais procedimentos de primeiros socorros.
 
-## Tecnologias
+Tecnologias:
 - Python
 - Tkinter
 - VS Code
 
-## Autor
+Autora:
 Desenvolvido por Thabata Santos Duarte. 
